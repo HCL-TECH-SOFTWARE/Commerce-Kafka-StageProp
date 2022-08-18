@@ -7,7 +7,7 @@ If you have questions or encounter problems with an HCL Commerce open source ass
 
 ## HCLC Kafka Stageprop POC
 The KafkaProp PoC was developed to prove out that we could leverage Kafka/Zookeeper to handle messaging of data from an AUTH environment to multiple LIVE environments concurrently/simultaneously.
-** This is now available as part of 9.1.x code**
+### This is now available as part of 9.1.x code
 
 # Video Overview
 https://rebrand.ly/hclc-kafkaprop-demo
